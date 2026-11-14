@@ -60,4 +60,4 @@ assets/dashboard.png          screenshot
 
 ## Data and licence
 
-Source: Statistics Indonesia (BPS) statistical tables, accessed on the date given in `data_sources.md`. Raw BPS files are not redistributed here; the repository holds the processed table and the code. Code: add your own licence.
+Source: Statistics Indonesia (BPS) statistical tables, accessed on the date given in `data_sources.md`. Raw BPS files are not redistributed here; the repository holds the processed table and the code. Code: MIT.
